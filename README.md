@@ -16,6 +16,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <code><img src="./assets/firebase.svg"/></code>
 <code><img src="./assets/react.svg"/></code>
 <code><img src="./assets/node.svg"/></code>
+<code><img src="./assets/mongo.svg" width="75px"/></code>
 <code><img src="./assets/python.svg"/></code>
 <code><img src="./assets/c++.svg"/></code>
 <code><img src="./assets/c.svg"/></code>
@@ -25,6 +26,8 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 <code><img src="./assets/git-scm.svg"/></code>
 <code><img src="./assets/java.svg"/></code>
 <code><img src="./assets/redux.svg"/></code>
+<code><img src="./assets/solidity.png" height="70px" width="70px"/></code>
+
 <br>
 
 ## 📊 My Github Stats
